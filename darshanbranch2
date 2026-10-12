@@ -1,0 +1,12 @@
+ 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+PS C:\Users\gauri\OneDrive\Desktop\practice> git add .
+PS C:\Users\gauri\OneDrive\Desktop\practice> git commit -m "sd"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+PS C:\Users\gauri\OneDrive\Desktop\practice> git add darshanbranch2
+fatal: pathspec 'darshanbranch2' did not match any files
